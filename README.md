@@ -1,4 +1,4 @@
 natural-bees
 ============
 
-Natural Bees code..
+Natural Bees code
